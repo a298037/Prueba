@@ -18,6 +18,7 @@ public class Prueba {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Prueba");
+         JOptionPane.showMessageDialog(null, "Hola");
         // TODO code application logic here
     }
     
